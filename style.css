@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.937);
+}
+/**************** HEADER ****************/
+.navbar {
+    background-color: rgba(0, 0, 0, 0.937);
+    margin-bottom: 3rem;
+}
+
+.logoNav {
+    color: aliceblue;
+    font-size: 2rem;
+    margin-left: 10rem;
+    font-weight: 600;
+}
+
+.iconoNav {
+    color: #0169FE;
+    font-size: 3rem;
+    margin-left: 2rem;
+}
+
+.botonNav {
+    background-color: rgba(0, 0, 0, 0.937);
+    color: #0169FE;
+    border: #0169FE 1px solid;
+    margin-right: 10rem;
+    font-size: 18px;
+    width: 17rem;
+    height: 3rem;
+    font-weight: 700;
+}
